@@ -1,0 +1,12 @@
+{
+  "name": "learngit",
+  "dependencies": {
+    "jquery": "3.2.1",
+    "bootstrap": "*",
+    "eonasdan-bootstrap-datetimepicker": "*",
+    "font-awesome": "*",
+    "Bootflat": "*",
+    "bootstrap-daterangepicker": "*"
+  },
+  "private": true
+}
